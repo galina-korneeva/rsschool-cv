@@ -1,1 +1,0 @@
-# https://galina-korneeva.github.io/rsschool-cv/cv
