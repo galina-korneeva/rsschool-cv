@@ -1,1 +1,1 @@
-# https://galina-korneeva.github.io/rsschool-cv/cv
+# https://galina-korneeva.github.io/rsschool-cv/
